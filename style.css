@@ -28,3 +28,16 @@ a {
   color: #1f3a5f;
   font-weight: bold;
 }
+body.dark {
+  background-color: #121212;
+  color: #eee;
+}
+
+body.dark section {
+  background-color: #1e1e1e;
+}
+
+body.dark h2,
+body.dark a {
+  color: #8ab4f8;
+}
