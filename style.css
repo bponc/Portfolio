@@ -41,3 +41,16 @@ body.dark h2,
 body.dark a {
   color: #8ab4f8;
 }
+header nav {
+  margin-top: 20px;
+}
+
+header nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
